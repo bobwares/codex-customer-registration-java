@@ -1,0 +1,1 @@
+Open and read /workspace/codex-agentic-ai-pipeline/AGENTS.md
